@@ -25,6 +25,6 @@ Go well, ngā mihi...
 <figure>
   <img src="https://c1.staticflickr.com/5/4008/4344614956_8575ab53b7_b.jpg" alt="hihi.jpg"><br>
   <figcaption>
-    <p>An adorable Hihi, look at those whiskers.</p>
+    <p>An adorable Hihi -- look at those whiskers.</p>
   </figcaption>
 </figure>
