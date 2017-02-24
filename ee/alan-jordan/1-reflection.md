@@ -6,6 +6,8 @@ Reflection allows us to stop and have what we have been learning sink in. Turnin
 ##What did I do well this week?
 I made sure I worked through as many of the readings as I could. I organised my time well to ensure that I was able to juggle working full time and doing the lessons required of me. I made sure that I had a good environment to work in which allowed me to get through my lessons without too many distractions.
 
+I have also tried to check into Slack as much as possible to begin to get to know my cohort. I have offered to help out anyone with any Linux issues as I've got some experience in that field and can hopefully help others out.
+
 I enjoyed the CSS portion of the lessons this week and liked playing with web site I created to make it look how I wanted to.
 
 I also tried to use Atom shortcuts where I could to make sure that I become more proficient with Atom. I am trying to make as many sink in as I can.
