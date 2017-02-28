@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/hihi-2017/hihi-2017.png?label=ready&title=Ready)](https://waffle.io/hihi-2017/hihi-2017)
 # Hihi, 2017
 
 Kia ora.
